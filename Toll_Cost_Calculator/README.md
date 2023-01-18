@@ -1,4 +1,4 @@
-# IE Toll Cost Calculator (2019-20)
+# Toll Cost Calculator
 
 ### PROBLEM STATEMENT
 Android vehicle toll payment using RFID is a method which aims at reducing the queuing delay at the toll plazas and makes toll payment accessible from the source point. A user can enter his/her source and destination in the application, and in return, the app will show the shortest path with the cost of tolls (if any present).
@@ -63,12 +63,6 @@ Google directions API and android framework.
 ### CONCLUSION
 The backend logic was implemented. The toll cost estimates can help a user maintain sufficient balance in his account since the tolls now have made it mandatory to include a FASTag on a vehicle using their services.
 
-### MEMBERS
-* [Shrinidhi A V](https://github.com/shrinidhi99)
-  * [Shraddha G](https://github.com/ShraddhaGole)
-  * [Shonali K S](https://github.com/shonali-ks)
-* Darshan V
-* Archana P
 
 ### REFERENCES
 * [https://nevonprojects.com/android-vehicle-toll-payment-system/](https://nevonprojects.com/android-vehicle-toll-payment-system/ "Android Vehicle Toll Payment Using 2 Factor Authentication")
